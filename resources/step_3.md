@@ -16,7 +16,7 @@ A `<div>` is an invisible box to which you can give a **style**. This `<div>` ha
 
 + Now go to your `style.css` file and add the table styling for the `<div>` called `art`.
 
-![screenshot](images/pixel-art-style.png)
+![screenshot](../images/pixel-art-style.png)
 
 This creates a table with a border and sets the spacing inside the grid.
 
